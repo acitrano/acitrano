@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anthony.
-- 👀 I’m a tech founder. I'm not a developer, so please bear with me.
+- 👀 I’m a tech founder. I'm not a developer, so thanks for bearing with me.
 - 🌱 I’m curious and always learning, so that's why I'm here.
 - 🔍 Currently exploring blockchain stuff, specifically NFTs.
 
