@@ -6,7 +6,7 @@
 - 📐 A couple side projects I'm working on:
     - 💵 [The Pluto Project](https://theplutoproject.org), a fun thing I made to track, compare, and contextualize billionaire wealth in real-time. (Github helped me with this!)
     - 🏛️ Coming soon, maybe: A thing that helps people connect with political candidates they most align with.
-    - 💡 Also coming soon, maybe: [A conference](https://thefilament.org) that will feel like PopTech, Renaissance Weekend, and early TED had a baby.
+    - 💡 Also coming soon, maybe: [A conference](https://thefilament.org) that will feel like PopTech, Renaissance Weekend, and early-TED had a baby.
 
 <!---
 acitrano/acitrano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
